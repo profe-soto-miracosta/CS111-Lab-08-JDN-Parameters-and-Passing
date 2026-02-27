@@ -4,6 +4,8 @@
 
   "editor.inlayHints.enabled": "off",
   "editor.formatOnType": true,
+  "editor.minimap.enabled": false,
+  "editor.stickyScroll.enabled": false,
 
   "java.project.referencedLibraries": [
     ".test/checkstyle-10.17.0-all.jar",
